@@ -1,0 +1,17 @@
+.heading1 {
+    background-color: rgb(16, 16, 109);
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 100;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#h1-spag {
+    background-color: #f09846fb;
+}
+#h1-ome {
+    background-color: #f8bc39;
+}
+#h1-por {
+    background-color: rgb(37, 30, 30);
+}
